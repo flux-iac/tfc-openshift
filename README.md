@@ -16,7 +16,7 @@ spec:
   interval: 1m0s
   ref:
     branch: main
-  url: https://github.com/tf-controller/eks-scaling.git
+  url: https://github.com/tf-controller/tfc-openshift.git
 ---
 apiVersion: kustomize.toolkit.fluxcd.io/v1beta2
 kind: Kustomization
